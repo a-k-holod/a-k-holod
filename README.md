@@ -2,6 +2,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=a-k-holod&theme=monokai&rank=-UNKNOWN)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+
+
+
+
+![](https://komarev.com/ghpvc/?username=a-k-holod&color=blueviolet)
 <!--
 **a-k-holod/a-k-holod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
