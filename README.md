@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=a-k-holod&theme=monokai&rank=-UNKNOWN)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=a-k-holod&theme=monokai&rank=-UNKNOWN&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
