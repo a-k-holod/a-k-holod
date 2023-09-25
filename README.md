@@ -8,9 +8,6 @@
 
 
 ![](https://komarev.com/ghpvc/?username=a-k-holod&color=blueviolet)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-k-holod&layout=compact)
-![a-k-holod's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-k-holod&show_icons=true&theme=radical)
 <!--
 **a-k-holod/a-k-holod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
